@@ -2,7 +2,7 @@
 
 ## Visão Geral 🚀
 
-  O Desafio consiste em estruturar desde a criação do banco de dados e suas integrações, até obtenção de um relatório por meio da ferramenta Power BI (SQL - Azure - Power BI) é um projeto abrangente de gerenciamento de banco de dados e visualização de dados projetado para demonstrar habilidades em SQL, Azure e Power BI. Este projeto inclui a criação de esquema de banco de dados, inserção de dados, restrições de chave estrangeira, tratamento dos dados e opções de consultas. E depois, visualização de dados usando Power BI.
+  O Projeto consiste em estruturar desde a criação do banco de dados e suas integrações, até obtenção de um relatório por meio da ferramenta Power BI (SQL - Azure - Power BI) é um projeto abrangente de gerenciamento de banco de dados e visualização de dados projetado para demonstrar habilidades em SQL, Azure e Power BI. Este projeto inclui a criação de esquema de banco de dados, inserção de dados, restrições de chave estrangeira, tratamento dos dados e opções de consultas. E depois, visualização de dados usando Power BI.
 
 ## Sumário 📑
 
