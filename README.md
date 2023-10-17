@@ -1,4 +1,4 @@
-# Desafio: SQL - Azure - Power BI
+# Objetivo: SQL -> Azure -> Power BI
 
 ## Visão Geral 🚀
 
